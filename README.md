@@ -2,3 +2,4 @@
 
 - Accordion
 - Carousel
+- Hero Section
